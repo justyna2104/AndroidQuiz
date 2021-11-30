@@ -1,0 +1,30 @@
+PO PIERWSZYM URUCHOMIENIU APLIKACJI
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume 
+
+PO WCIŚNIĘCIU PRZYCIUSKU COFNIJ
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+D/MainActivity: Wywołana została metoda cyklu życia: onDestroy 
+
+PO PONOWNYM URUCHOMIENIU APLIKACJI 
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+PO WCIŚNIĘCIU PRZYCISKU EKRANU GŁÓWNEGO HOME
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+
+PO POWROCIE DO APLIKACJI Z LISTY OSTATNIO UŻYWANYCH APLIKACJI
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+PO OBRÓCENIU EKRANU
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
